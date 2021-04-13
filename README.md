@@ -1,5 +1,6 @@
 # inpi
-Resumo
+Resumo![e-PI marca](https://user-images.githubusercontent.com/82343223/114589116-bfe0bb80-9c5d-11eb-8d6c-4708d720a5c0.jpeg)
+
 
 O e-PI: Sistema Inteligente de Propriedade Intelectual é uma solução para integrar as bases de patentes ao sistema do INPI e que tem como finalidade dar assistência e facilitar a escrita do pedido de patente pelos inventores/pesquisadores proporcionando uma melhor experiência virtual. É um fato que pela grande
 quantidade de patentes que são solicitadas e rejeitadas a cada ano, bem como por suas próprias características, os indicadores utilizados e os requisitos de tempo em cada caso, é necessário ferramentas mais inteligentes, como o e-PI, que podem melhor viabilizar o processo. As ferramentas para o tratamento e análise de informações de patentes não são muitas e ainda menos são as que permitem a visualização dos resultados da busca para a descoberta de conhecimento ou mesmo escrita on-line de uma patente. 
